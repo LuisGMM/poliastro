@@ -35,6 +35,7 @@ extensions = [
     "hoverxref.extension",
     "myst_parser",
     "sphinx_github_role",
+    "jupyter_sphinx",
 ]
 
 # GitHub role config
