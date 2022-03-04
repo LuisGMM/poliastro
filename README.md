@@ -33,7 +33,7 @@ and orbit plotting, among others.
 It focuses on interplanetary applications,
 but can also be used to analyze artificial satellites in Low-Earth Orbit (LEO).
 
-```python
+```python .. jupyter-execute::
 from poliastro.examples import molniya
 
 molniya.plot()
